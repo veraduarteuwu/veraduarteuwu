@@ -3,7 +3,7 @@ session_start();
 header('Content-Type: text/html; charset=utf-8');
 include "conection.php";
 include "utilitarios.php";
-
+//IIIII
 $nombre_fichero = '../files/midtid.txt';
 $existe =  true;
 $vacio = true;
