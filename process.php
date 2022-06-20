@@ -156,7 +156,7 @@ $json = json_decode($responseData, true);
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<img src="../imagenes/logo-datafast.png">
+			
 		</div>
 		<div class="col-md-12">
 		<h1>Portal de compras</h1>
